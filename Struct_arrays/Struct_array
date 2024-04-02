@@ -1,1 +1,3 @@
-
+# Esta pasta contém um programa em C que gera informações sobre as partidas de voos num aeroporto. 
+# O programa permite visualizar detalhes dos voos, incluindo número do voo, nome da companhia, destino e horário de saída. 
+# Foi desenvolvido com o objetivo de explorar o uso de arrays de estruturas para armazenar e manipular os dados dos voos
