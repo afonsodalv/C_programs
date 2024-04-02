@@ -1,2 +1,2 @@
 # C_programs
-Este repositório tem como objetivo apresentar uma amostra dos meus projetos académicos e pessoais em desenvolvimento.
+Este repositório destina-se a apresentar alguns programas em C que ando a desenvolver.
